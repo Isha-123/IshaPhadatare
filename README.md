@@ -1,4 +1,14 @@
-## Hi there 👋
+
+🔭 Currently working on Web Development and machine learning models.
+👯 Let's team up and create something impactful!
+💬 Feel free to ask me about my projects, experiences, or anything related to Web Development and machine learning. I'm always eager to share knowledge and learn from others!
+📫 You can reach me via [Linkedin][https://www.linkedin.com/in/isha-phadatare-4b512a24a/].
+⚡ Fun fact:I once coded an entire project while sipping coffee from a mug that said "Ctrl + Alt + Del". ☕️🖥️
+
+<h2>Tech stack</h2>
+Languages
+![c](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
 
 <!--
 **IshaPhadatare/IshaPhadatare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
