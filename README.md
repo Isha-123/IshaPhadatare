@@ -7,7 +7,7 @@
 ⚡ Fun fact:I once coded an entire project while sipping coffee from a mug that said "Ctrl + Alt + Del". ☕️🖥️</br>
 
 <h2>Tech stack</h2>
-Languages
+<h3>Languages</h3>
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
