@@ -1,3 +1,4 @@
+<h2> About Me</h2>
 
 🔭 Currently working on Web Development and machine learning models.</br>
 👯 Let's team up and create something impactful!</br>
